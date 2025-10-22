@@ -82,7 +82,7 @@ body {
   height: 389px;
   border-radius: 50%;
   background: #3e3e3e;
-  background-image: url("/img/фото-нет.png");
+  background-image: url("img/фото-нет.png");
   background-repeat: no-repeat;
   background-position: center top -80px;
   border: 20px solid #000000;
